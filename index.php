@@ -12,4 +12,3 @@ Network: true
 require_once "/var/www/vendor/autoload.php";
 
 new Zwift\WP\Services;
-new Zwift\WP\Invites;
