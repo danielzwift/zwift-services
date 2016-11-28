@@ -9,6 +9,4 @@ Author URI: http://zwift.com/
 Network: true
 */
 
-require_once "/var/www/vendor/autoload.php";
-
 new Zwift\WP\Services;
